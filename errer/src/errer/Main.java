@@ -17,7 +17,7 @@ public class Main {
 		        System.out.println(i++);
 		        // prints 7
 		        System.out.println(i);
-		        
+		        System.out.println(i+i+6);
 		        System.out.println(i+i);
 		    }
 		}
